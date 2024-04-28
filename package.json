@@ -15,7 +15,7 @@
     "lint:watch": "./node_modules/.bin/nodemon --watch ./app --exec 'npm run lint'"
   },
   "engines": {
-    "node": "6.17.1"
+    "node": "^6.17.1"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
